@@ -1,0 +1,3 @@
+il file "variables_Default.cfg" va usato quando vogliamo solo leggere i sensori, senza alcun controllo su nessun attuatore
+invece, il file "variables_Control.cfg" va usato quando vogliamo anche controllare degli attuatori (infatti c'è in più la parte su Ptolemy che è l'External Interface
+
